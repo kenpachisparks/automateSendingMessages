@@ -1,9 +1,9 @@
 # automateSendingMessages
 
-For this Code to work you would run this in Applescript or another language that cna use Applescript like Python.
+For this Code to work you would run this in Applescript or another language that can use Applescript like Python.
 
 You would remove (* from the beginning of line 1 and *) from the end of line 3
-Then add the (* at teh beginnign of line 6 and *) at the end of line 9
+Then add the (* at the beginnign of line 6 and *) at the end of line 9
 
 Run AppleScript and you will get a print out like 
 
